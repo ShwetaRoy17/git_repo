@@ -1,3 +1,3 @@
 # git_repo
-my git learning repo
-hello Odin!
+this is my git learning repository.
+A warmth welcome to all my odins!!!
